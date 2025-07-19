@@ -1,0 +1,6 @@
+Java SE Development Kit 21
+Apache NetBeans 25
+Apache Tomcat 9.0.100
+MySQL Connector/J 9.2.0
+Eclipse JRE (Optional)
+GSON 2.10.1 (gson-2.10.1.jar)
